@@ -1,0 +1,3 @@
+﻿  Teste.cpp
+C:\Users\flavi\OneDrive\Área de Trabalho\L04E10\L04E10\Teste.cpp(17,1): warning C4326:  tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+  L04E10.vcxproj -> C:\Users\flavi\OneDrive\Área de Trabalho\L04E10\Debug\L04E10.exe
